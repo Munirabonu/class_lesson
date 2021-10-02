@@ -1,0 +1,21 @@
+.box{
+  width: 100%;
+  height: 50px;
+  background-color: aqua;
+}
+.square{
+  width: 100%;
+  height: 50px;
+  background-color: red;
+}
+.uz,.ru{
+  color: aqua;
+  width: 100px;
+  background-color: blue;
+  border: 2px solid gray;
+  height: 50px;
+}
+select{
+  width: 100px;
+  height: 50px;
+}
